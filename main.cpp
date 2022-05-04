@@ -31,5 +31,6 @@ int main(int argc, char** argv) {
     cout<<abalone.traverseDiagonal()<<endl;
     cout<<"Traverse W-E Horizontally From A1:"<<endl;
     cout<<abalone.traverseHorizontal()<<endl;
+    cout << "Hi" << endl;
     return 0;
 }
