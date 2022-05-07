@@ -13,6 +13,7 @@
 
 #include <cstdlib>
 #include <iostream>
+#include <stdlib.h>
 #include "board.h"
 #include "cell.h"
 

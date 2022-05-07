@@ -29,7 +29,7 @@ string traverse(const cell* start,const int& pd,const int& sd,const int& td){
     }
     return ts;
 }
-
+/*
 string board::traverseAny(const string& corner, const int& pd, const int& td) const
 {
      string ta;
@@ -38,15 +38,9 @@ string board::traverseAny(const string& corner, const int& pd, const int& td) co
      const string *c1 = &corner;
 
      c.setLocation(*c1);
-
-   /*  if(c.getLocation() != nullptr_t)
-     {
-
-     }
-*/
      return ta;
 
-}
+} */
 void setMarbles(cell* row,const int& z, const char& m){
     for(int i=0;i<z;i++){
         row[i].setMarble(m);

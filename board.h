@@ -34,7 +34,7 @@ public:
     string traverseDiagonal() const;
     bool validateMove(const string& l, const int& n, const int& fd, const int& md, int& mtype, bool& scoreMove) const;
     bool executeMove(const string& l, const int& n, const int& fd, const int& md);
-    string traverseAny(const string& corner, const int& pd, const int& td) const;
+    //string traverseAny(const string& corner, const int& pd, const int& td) const;
 };
 
 
