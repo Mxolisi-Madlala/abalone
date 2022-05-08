@@ -24,8 +24,8 @@ using namespace std;
  * 
  */
 int main(int argc, char** argv) {
-    board abalone;
-    string da(abalone);
+     board abalone;
+     string da(abalone);
     cout<<"Display Abalone Board:"<<endl;
     cout<<da;    
     cout<<"Traverse NW-SE Diagonally From E1:"<<endl;
