@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/mxolisi/Documents/project_comp315/abalone/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/main.dir/main.cpp.o -c /home/mxolisi/Documents/project_comp315/abalone/main.cpp",
+  "file": "/home/mxolisi/Documents/project_comp315/abalone/main.cpp"
+},
+{
+  "directory": "/home/mxolisi/Documents/project_comp315/abalone/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/main.dir/board.cpp.o -c /home/mxolisi/Documents/project_comp315/abalone/board.cpp",
+  "file": "/home/mxolisi/Documents/project_comp315/abalone/board.cpp"
+},
+{
+  "directory": "/home/mxolisi/Documents/project_comp315/abalone/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/main.dir/cell.cpp.o -c /home/mxolisi/Documents/project_comp315/abalone/cell.cpp",
+  "file": "/home/mxolisi/Documents/project_comp315/abalone/cell.cpp"
+}
+]
